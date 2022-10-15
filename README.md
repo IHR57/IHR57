@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IHR57
-- 👀 I’m interested in Software Engineering, Backend Development, System Design
+- 👀 I’m interested in Problem Solving, Software Engineering, Backend Development, System Design
 - 🌱 I’m currently learning Java, System Design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Phone: +8801957358565, Email: iqbalhrasel57@gmail.com
+- 📫 How to reach me 
+Phone: +8801957358565, Email: iqbalhrasel57@gmail.com
 
 <!---
 IHR57/IHR57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
